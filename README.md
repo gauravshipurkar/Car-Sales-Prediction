@@ -1,2 +1,6 @@
 # Car-Sales-Prediction
-Based on the sales dataset. The model tries to predict the future sales.
+## Table Of Content
+## Motivation
+## Technical Aspect 
+## Installation
+## To Do
