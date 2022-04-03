@@ -15,7 +15,16 @@ The dataset utilized for this project has the respective columns(Customer Name, 
 
 The libraries utilized are Seaborn, Pandas, TensorFlow, Keras & NumPy. I have normalized the input columns using MinMaxScaler which helps the model to better generalize on the dataset as well as decreases the amount of computation time for the model by some amount and helps in the problem of vanishing & exploding gradient. The data is then segregated into training & testing, further a simple ANN architecture is utilized for prediction. The following represents the model loss for training & validation:
 ![](https://github.com/gauravshipurkar/Car-Sales-Prediction/blob/main/Images/Loss.png)
+
+
 Testing:
 ![](https://github.com/gauravshipurkar/Car-Sales-Prediction/blob/main/Images/Result.png)
+
 ## Installation
+The Code is written in Python 3.8. If you don't have Python installed you can find it [here](https://www.python.org/downloads/release/python-380/). To install the required packages and libraries, run this command in the project directory after cloning the repository:
+```
+pip install -r requirements.txt
+
+```
 ## To Do
+Further, we can do an analysis for this project utilising diverse models and comparing the outputted results & thus select the best model.
