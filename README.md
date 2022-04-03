@@ -18,6 +18,8 @@ The libraries utilized are Seaborn, Pandas, TensorFlow, Keras & NumPy. I have no
 
 
 Testing:
+
+
 ![](https://github.com/gauravshipurkar/Car-Sales-Prediction/blob/main/Images/Result.png)
 
 ## Installation
@@ -27,4 +29,4 @@ pip install -r requirements.txt
 
 ```
 ## To Do
-Further, we can do an analysis for this project utilising diverse models and comparing the outputted results & thus select the best model.
+Further, we can do an analysis for this project utilizing diverse models and comparing the outputted results & thus select the best model.
