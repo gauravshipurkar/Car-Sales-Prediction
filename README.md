@@ -1,5 +1,10 @@
 # Car-Sales-Prediction
 ## Table Of Content
+- Overview
+- Motivation
+- Technical Aspect
+- Installation
+- To Do
 ## Overview
 This simple regression project comprises an Artificial Neural Network to predict the estimate of the amount that the customer is willing to spend on a car. Here, we have made use of (Gender, Age, Annual Salary, Credit Card Debt & Net-Worth) to gauge the amount. 
 ## Motivation
