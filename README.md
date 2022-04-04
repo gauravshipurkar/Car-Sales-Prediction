@@ -14,6 +14,8 @@ What is the best way to acquire proficiency in a library? To practically impleme
 The dataset utilized for this project has the respective columns **(Customer Name, Customer e-mail, Country, Gender, Age, Annual Salary, Credit Card Debt, Net Worth, Car Purchase Amount)**. For the regression model, I have considered **(Gender, Age, Annual Salary, Credit Card Debt & Net Worth)**. For the output, **(Car Purchase Amount)** is considered.
 
 The libraries utilized are **Seaborn, Pandas, TensorFlow, Keras & NumPy**. I have normalized the input columns using MinMaxScaler which helps the model to better generalize on the dataset as well as decreases the amount of computation time for the model by some amount and helps in the problem of vanishing & exploding gradient. The data is then segregated into training & testing, further a simple ANN architecture is utilized for prediction. The following represents the model loss for training & validation:
+
+
 ![](https://github.com/gauravshipurkar/Car-Sales-Prediction/blob/main/Images/Loss.png)
 
 
